@@ -1,0 +1,22 @@
+url: lillianzhu.github.io/recipe-book/
+edit:
+  repo: github.com/lillianzhu/recipe-book
+input: ./src
+output: ./docs
+branding:
+  title: Our Cookbook
+meta:
+  title: " | Our cookbook"
+links:
+  - text: Tags
+    link: ./tags
+    icon: tag
+  - text: Categories
+    link: ./categories
+    icon: container
+  - text: Blog
+    link: ./blog
+    icon: book
+  # - text: Suggest a recipe
+  #   link: https://github.com/engeir/simple-recipes-cookbook/pulls
+  #   icon: git-pull-request
