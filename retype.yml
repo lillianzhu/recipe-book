@@ -4,9 +4,9 @@ edit:
 input: ./src
 output: ./docs
 branding:
-  title: Our Cookbook
+  title: our cookbook :]
 meta:
-  title: " | Our cookbook"
+  title: " | a living recipe book"
 links:
   - text: Tags
     link: ./tags
