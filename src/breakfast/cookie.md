@@ -1,19 +1,25 @@
 ---
-foo: "bar"
-baz: "bee"
-keywords: [pizza, pasta]
+title: cookies
+keywords: [cookie]
 ...
 
-### Summary
+### summary
 
 A lovely cookie recipe
 
-### Ingredients
+### ingredients
+
+=== subcategory
+
+- Cut the apples and the oranges
+- Mix them together
+
+===
 
 - 1 of these
 - 3 of those
 
-### Instructions
+### method
 
 Do as I say, and all will be fine!
 

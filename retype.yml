@@ -14,9 +14,6 @@ links:
   - text: Categories
     link: ./categories
     icon: container
-  - text: Blog
-    link: ./blog
-    icon: book
   # - text: Suggest a recipe
   #   link: https://github.com/engeir/simple-recipes-cookbook/pulls
   #   icon: git-pull-request

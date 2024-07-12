@@ -1,9 +1,9 @@
 ---
 description: 'The painless, portable, cookbook cookiecutter'
-icon: ":hocho:"
+icon: ":knife_fork_plate:"
 ---
 
-# Simple Recipes Cookbook
+# our cookbook
 
 > Welcome to the Simple Recipes Cookbook
 
