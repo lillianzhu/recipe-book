@@ -1,5 +1,5 @@
 ---
-description: 'The painless, portable, cookbook cookiecutter'
+description: 'woop woop'
 icon: ":knife_fork_plate:"
 ---
 
@@ -11,4 +11,6 @@ since we're both cs nerds, these markdown files using retype and github hosted w
 
 \+ lillian & ashton
 
-![A lovely cookie!](img/cookie.jpg)
+
+
+![ashton's lovely apple rose tart!](img/3.jpg)

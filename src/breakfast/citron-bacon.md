@@ -5,26 +5,17 @@ keywords: [citron bacon]
 
 ### summary
 
-A lovely cookie recipe
+ashton gets inspired from a cali brunch
 
 ### ingredients
 
-=== subcategory
-
-- Cut the apples and the oranges
-- Mix them together
-
-===
-
-- 1 of these
-- 3 of those
+- 1
+- 2
 
 ### method
 
-Do as I say, and all will be fine!
+- 1
+- 2
 
-!!!
-These cookies are perhaps too good to be true.
-!!!
 
-![A lovely cookie!](img/cookie.jpg)
+![very crisp](img/1.jpg)

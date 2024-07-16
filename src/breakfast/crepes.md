@@ -3,20 +3,17 @@ title: crepes
 ...
 
 ### summary
-
-A lovely cookie recipe
+word
 
 ### ingredients
-
-- 1 of these
-- 3 of those
+- word
 
 ### method
+- word
 
-Do as I say, and all will be fine!
-
-!!!
-These cookies are perhaps too good to be true.
-!!!
-
-![A lovely cookie!](img/cookie.jpg)
+![](img/4.jpg)
+![](img/5.jpg)
+![](img/6.jpg)
+![](img/7.jpg)
+![](img/8.jpg)
+![](img/14.jpg)
