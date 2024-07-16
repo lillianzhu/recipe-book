@@ -3,21 +3,14 @@ title: okanamiyaki
 keywords: [okanamiyaki]
 ...
 
-### Summary
+### summary
+word
 
-A lovely cookie recipe
+### ingredients
+- word
 
-### Ingredients
+### method
+- word
 
-- 1 of these
-- 3 of those
-
-### Instructions
-
-Do as I say, and all will be fine!
-
-!!!
-These cookies are perhaps too good to be true.
-!!!
-
-![A lovely cookie!](img/cookie.webp)
+![](img/9.jpg)
+![](img/10.jpg)

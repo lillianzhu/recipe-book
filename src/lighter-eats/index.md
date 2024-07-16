@@ -1,3 +1,1 @@
-> You can have text on the main page as well!
-
-***These are some nice easy appetizers.***
+> maybe ashton's favorite meal of the day?

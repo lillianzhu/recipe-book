@@ -1,6 +1,6 @@
 ---
-title: chicken noodle soup
-keywords: [chicken noodle soup]
+title: pan-fried tofu
+keywords: [pan-fried tofu]
 ...
 
 ### summary
@@ -11,3 +11,5 @@ word
 
 ### method
 - word
+
+![](img/18.jpg)

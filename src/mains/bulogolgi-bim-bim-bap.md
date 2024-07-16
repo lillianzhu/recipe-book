@@ -4,27 +4,14 @@ keywords: [beef bulogolgi bim-bim-bap]
 ...
 
 ### summary
-
-A lovely cookie recipe
+word
 
 ### ingredients
-
-=== subcategory
-
-- Cut the apples and the oranges
-- Mix them together
-
-===
-
-- 1 of these
-- 3 of those
+- word
 
 ### method
+- word
 
-Do as I say, and all will be fine!
-
-!!!
-These cookies are perhaps too good to be true.
-!!!
-
-![A lovely cookie!](img/cookie.jpg)
+![](img/6.jpg)
+![](img/5.jpg)
+![](img/4.jpg)

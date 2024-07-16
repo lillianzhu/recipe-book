@@ -1,6 +1,6 @@
 ---
-title: chicken noodle soup
-keywords: [chicken noodle soup]
+title: mochi
+keywords: [mochi]
 ...
 
 ### summary
@@ -11,3 +11,5 @@ word
 
 ### method
 - word
+
+![](img/11.jpg)

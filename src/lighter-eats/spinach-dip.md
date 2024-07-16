@@ -3,21 +3,14 @@ title: spinach dip
 keywords: [spinach dip]
 ...
 
-### Summary
+### summary
+word
 
-A lovely cookie recipe
+### ingredients
+- word
 
-### Ingredients
+### method
+- word
 
-- 1 of these
-- 3 of those
-
-### Instructions
-
-Do as I say, and all will be fine!
-
-!!!
-These cookies are perhaps too good to be true.
-!!!
-
-![A lovely cookie!](img/cookie.webp)
+![](img/6.jpg)
+![](img/7.jpg)

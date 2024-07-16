@@ -1,6 +1,6 @@
 ---
-title: pan-fried tofu
-keywords: [pan-fried tofu]
+title: lasagna
+keywords: [lasagna]
 ...
 
 ### summary

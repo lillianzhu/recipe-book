@@ -4,27 +4,14 @@ keywords: [stuffed bell peppers]
 ...
 
 ### summary
-
-A lovely cookie recipe
+word
 
 ### ingredients
-
-=== subcategory
-
-- Cut the apples and the oranges
-- Mix them together
-
-===
-
-- 1 of these
-- 3 of those
+- word
 
 ### method
+- word
 
-Do as I say, and all will be fine!
+![](img/16.jpg)
 
-!!!
-These cookies are perhaps too good to be true.
-!!!
-
-![A lovely cookie!](img/cookie.jpg)
+![](img/17.jpg)
