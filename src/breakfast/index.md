@@ -1,3 +1,5 @@
-> You can have text on the main page as well!testststs
+> lillian's favorite meal of the day, ashton is warming up to it
 
-***These are some nice easy appetizers.***
+!!!
+often paired with trader joes coffee and ashton's latest herbal tea
+!!!

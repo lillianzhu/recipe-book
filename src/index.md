@@ -3,13 +3,12 @@ description: 'The painless, portable, cookbook cookiecutter'
 icon: ":knife_fork_plate:"
 ---
 
-# our cookbook
+# our cookbook :]
 
-> Welcome to the Simple Recipes Cookbook
+> welcome to the collection of our little cooking and baking endeavors!!
 
-This cookbook is generated with the [retype](https://retype.com/) framework. It is
-ridiculously easy to set up, has every type setting feature you can think of, and can be
-hosted on your very own website. All for free and without having to install anything.
+since we're both cs nerds, these markdown files using retype and github hosted website will be easy to update as living documents of our culinary adventures. let's see and share what we cook up over the years :')
 
-Click your way through to see some example uses, and make sure to visit the
-[retype](https://retype.com/) website for a thorough guide of every feature!
+\+ lillian & ashton
+
+![A lovely cookie!](img/cookie.jpg)

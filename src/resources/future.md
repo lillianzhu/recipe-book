@@ -1,0 +1,6 @@
+---
+title: future recipes
+keywords: [future recipes]
+...
+
+future recipes to try...
