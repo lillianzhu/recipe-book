@@ -4,11 +4,15 @@ keywords: [parfait]
 ...
 
 ### summary
-girl breakfast
+a classic girl snack for lillian
+
 ### ingredients
-- word
+- greek yogurt
+- fruits
+- a crumbled cookie (ideally an oatmeal or biscoff one)
+- cinnamon
 
 ### method
-- word
+- put it together
 
 ![](img/12.jpg)
